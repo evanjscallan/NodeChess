@@ -1,0 +1,19 @@
+{
+  "name": "nodechess",
+  "version": "1.0.0",
+  "description": "Chess built using NodeJS. Grid structure built off of nested arrays.",
+  "main": "Chess.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "chess",
+    "logic",
+    "nodejs"
+  ],
+  "author": "Evan Scallan",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
