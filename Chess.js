@@ -6,7 +6,7 @@
 
 
 
-Layout/Components -
+Layout/Components - - 
 
 Board - 8x8 Nested Array to form a grid. Alternating black and white grid.
 Piece - Takes up a space on the Board. 
